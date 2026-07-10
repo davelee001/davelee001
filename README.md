@@ -14,7 +14,7 @@
   </a>
 
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/https://ug.linkedin.com/in/david-leek-aleer-b37bb9317-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/https://ug.linkedin.com/in/david-leek-aleer-b37bb9317/-blue?style=for-the-badge&logo=linkedin">
   </a>
 
   <a href="https://x.com/barax_lee">
