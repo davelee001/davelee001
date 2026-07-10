@@ -16,6 +16,11 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-David%20Leek%20Aleer-blue?style=for-the-badge&logo=linkedin">
   </a>
+
+  <a href="https://x.com/barax_lee">
+  <img src="https://img.shields.io/badge/X-barax_lee-black?style=for-the-badge&logo=x">
+  </a>
+
 </p>
 
 ---
