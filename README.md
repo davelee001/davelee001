@@ -23,31 +23,6 @@
 
 </p>
 
----
-<h1 align="center">Hi, I'm David Leek Aleer 👋</h1>
-
-<p align="center">
-  <b>Software Developer | IT Officer | Researcher | Tech for Impact</b>
-</p>
-
-<p align="center">
-  <a href="mailto:david.leekaleer@student.utamu.ac.ug">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/davelee001">
-    <img src="https://img.shields.io/badge/GitHub-davelee001-181717?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-David%20Leek%20Aleer-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://x.com/YOUR_X_USERNAME">
-    <img src="https://img.shields.io/badge/X-@YOUR_X_USERNAME-000000?style=for-the-badge&logo=x">
-  </a>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;IT+Officer;Blockchain+Builder;Researcher;Tech+for+Impact" alt="Typing animation">
 </p>
