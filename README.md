@@ -25,62 +25,103 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;IT+Officer;Blockchain+Builder;Researcher;Tech+for+Impact" />
-</p>
+## 👨‍💻 About Me
 
-
-## About Me
-
-I am a Computer Science graduate, IT Officer, software developer, and researcher interested in building practical digital solutions for organizations and communities.
+I am a Computer Science graduate, IT Officer, software developer, and researcher interested in building practical digital solutions that solve real-world problems and create impact in communities and organizations.
 
 - 🔭 I am working on software, blockchain, and research projects.
-- 🌱 I am learning full-stack development, cloud computing, and artificial intelligence.
-- 👯 I am interested in open-source and technology-for-impact projects.
-- 💬 Ask me about software development, IT support, research, and GitHub.
+- 🌱 I am learning cloud computing, DevOps, artificial intelligence, and full-stack development.
+- 👯 I am open to collaborating on open-source and technology-for-impact projects.
+- 💬 Ask me about software development, IT support, research, blockchain, and GitHub.
 - 📍 Based in South Sudan.
 
-## Languages and Tools
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,git,github,vscode,postgresql" />
-</p>
-
-## GitHub Statistics
+## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davelee001&show_icons=true&theme=transparent" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,python,solidity,postgresql,mongodb,firebase,git,github,docker,linux,vscode&perline=9" alt="Skills">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davelee001&layout=compact&theme=transparent" />
-</p>
+---
 
-## GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davelee001&theme=transparent" />
-</p>
-
-## Featured Projects
-
-### BarakaFin
-
-A decentralized finance platform focused on financial inclusion, learning rewards, community pools, and youth empowerment.
-
-### EduPass
-
-A cross-border payment and remittance platform designed for students and families in East Africa.
-
-### City Clean-Up Challenge
-
-A mobile application that rewards users for participating in environmental clean-up activities.
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davelee001&label=Profile%20Views&style=flat-square" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davelee001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=davelee001&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <b>Let us connect and build impactful technology.</b>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davelee001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davelee001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davelee001/davelee001/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davelee001/davelee001/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/davelee001/davelee001/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davelee001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies">
+</p>
+
+---
+
+## 💼 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/davelee001/BarakaFin">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=BarakaFin&theme=tokyonight&hide_border=true" alt="BarakaFin">
+  </a>
+
+  <a href="https://github.com/davelee001/edupass">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=edupass&theme=tokyonight&hide_border=true" alt="EduPass">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/davelee001/city-cleanup-challenge">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=city-cleanup-challenge&theme=tokyonight&hide_border=true" alt="City Clean-Up Challenge">
+  </a>
+
+  <a href="https://github.com/davelee001/workingbeam">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=workingbeam&theme=tokyonight&hide_border=true" alt="Workingbeam">
+  </a>
+</p>
+
+---
+
+## 🌍 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davelee001&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile visitors">
+</p>
+
+---
+
+<p align="center">
+  <b>Code. Learn. Build. Repeat.</b>
+</p>
+
+<p align="center">
+  Let us connect and build impactful technology together.
 </p>
