@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="mailto:david.leekaleer@student.utamu.ac.ug">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail">
   </a>
 
   <a href="https://github.com/davelee001">
-    <img src="https://img.shields.io/badge/GitHub-davelee001-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-davelee001-black?style=flat-square&logo=github">
   </a>
 
   <a href="https://ug.linkedin.com/in/david-leek-aleer-b37bb9317">
-     <img src="https://img.shields.io/badge/LinkedIn-David%20Leek%20Aleer-blue?style=for-the-badge&logo=linkedin">
+     <img src="https://img.shields.io/badge/LinkedIn-David%20Leek%20Aleer-blue?style=flat-square&logo=linkedin">
   </a>
 
   <a href="https://x.com/barax_lee">
-  <img src="https://img.shields.io/badge/X-barax_lee-black?style=for-the-badge&logo=x">
+  <img src="https://img.shields.io/badge/X-barax_lee-black?style=flat-square&logo=x">
   </a>
 
 </p>
