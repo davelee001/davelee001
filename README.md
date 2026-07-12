@@ -90,33 +90,80 @@ I am a Computer Science graduate, IT Officer, software developer, and researcher
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davelee001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies">
-</p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=davelee001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
+      alt="David Leek Aleer GitHub trophies"
+    />
+  </a>
+</p>
 ---
 
 ## 💼 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/davelee001/BarakaFin">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=BarakaFin&theme=tokyonight&hide_border=true" alt="BarakaFin">
-  </a>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💜 BarakaFin</h3>
+      <p align="center">
+        A decentralized finance platform promoting financial inclusion,
+        learn-to-earn rewards, staking and community pools.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs">
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/davelee001/BarakaFin">
+          <img src="https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
 
-  <a href="https://github.com/davelee001/edupass">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=edupass&theme=tokyonight&hide_border=true" alt="EduPass">
-  </a>
-</p>
+    <td width="50%">
+      <h3 align="center">💚 EduPass</h3>
+      <p align="center">
+        A cross-border remittance platform created for students and families
+        making payments across East Africa.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stellar-7D00FF?style=flat-square&logo=stellar">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/davelee001/edupass">
+          <img src="https://img.shields.io/badge/View_Repository-16A34A?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="https://github.com/davelee001/city-cleanup-challenge">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=city-cleanup-challenge&theme=tokyonight&hide_border=true" alt="City Clean-Up Challenge">
-  </a>
+  <tr>
+    <td width="50%">
+      <h3 align="center">♻️ City Clean-Up Challenge</h3>
+      <p align="center">
+        A mobile application that rewards people for participating in
+        environmental clean-up activities.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react">
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo">
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase">
+      </p>
+      <p align="center">
+        <a href="https://github.com/davelee001/city-cleanup-challenge">
+          <img src="https://img.shields.io/badge/View_Repository-0891B2?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
 
-  <a href="https://github.com/davelee001/workingbeam">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=davelee001&repo=workingbeam&theme=tokyonight&hide_border=true" alt="Workingbeam">
-  </a>
-</p>
+     </tr>
+</table>
 
 ---
 
