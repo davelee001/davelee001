@@ -88,20 +88,6 @@ I am a Computer Science graduate, IT Officer, software developer, and researcher
 
 ---
 
-## 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=davelee001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
-      alt="David Leek Aleer GitHub trophies"
-    />
-  </a>
-</p>
----
-
 ## 💼 Featured Projects
 
 <table>
@@ -123,7 +109,6 @@ I am a Computer Science graduate, IT Officer, software developer, and researcher
         </a>
       </p>
     </td>
-
     <td width="50%">
       <h3 align="center">💚 EduPass</h3>
       <p align="center">
@@ -161,10 +146,25 @@ I am a Computer Science graduate, IT Officer, software developer, and researcher
         </a>
       </p>
     </td>
-
-     </tr>
+       <td width="50%">
+      <h3 align="center">🧑‍💻 WorkingBeam</h3>
+      <p align="center">
+        A freelancer platform connecting African talent with opportunities
+        and simplifying digital payments.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/davelee001/workingbeam">
+          <img src="https://img.shields.io/badge/View_Repository-EA580C?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## 🌍 Profile Visitors
