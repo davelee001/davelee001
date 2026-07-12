@@ -1,3 +1,5 @@
+name: Generate Contribution Snake
+
 on:
   workflow_dispatch:
 
@@ -7,3 +9,27 @@ on:
   push:
     branches:
       - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake files
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: davelee001
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
