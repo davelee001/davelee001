@@ -1,4 +1,4 @@
-<h1 align="center">Yo wassup! It's me David Leek 👋</h1>
+<h1 align="center">Yo, wassup! It's me Leeeeeee 👋</h1>
 
 <p align="center">
   <b>Software Developer | IT Officer | Researcher | Tech for Impact</b>
