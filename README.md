@@ -1,7 +1,7 @@
 <h1 align="center">Yo, wassup! It's me Leeeeeee 👋</h1>
 
 <p align="center">
-  <b> Blockchain Dev |Software Developer | IT Officer | Researcher ! Web3 </b>
+  <b> Blockchain Dev |Software Developer | IT Officer | Researcher | Web3 </b>
 </p>
 
 <p align="center">
